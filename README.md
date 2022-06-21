@@ -1,0 +1,2 @@
+# HaloBlog
+Kizai's HaloBlog
